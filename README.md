@@ -15,13 +15,9 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anil-kushwaha-518114220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anil-kushwaha-518114220/" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/anil_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anil_maurya_2002" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/anil_maurya_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anil_maurya_2002" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/anil_maurya_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anil_maurya_2002" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/anil_maurya_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anil_maurya_2002" height="30" width="40" /></a>
 </p>
 
